@@ -1,0 +1,10 @@
+{
+  "setup": {
+    "authentication": {
+      "errors": {
+        "authentication_failed": "Authentication failed, please check your token.",
+        "not_authorized": "Your account is not authorized to push on the repository."
+      }
+    }
+  }
+}
