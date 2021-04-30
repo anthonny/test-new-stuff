@@ -1,0 +1,10 @@
+{
+  "sourceRepository": {
+    "url": "https://github.com/anthonny/test-new-stuff.git",
+    "branch": "main"
+  },
+  "publicationRepository": {
+    "url": "https://github.com/anthonny/test-new-stuff.git",
+    "branch": "main"
+  }
+}
